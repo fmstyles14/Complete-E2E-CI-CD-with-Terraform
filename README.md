@@ -4,7 +4,7 @@ Complete CI/CD with Terraform
 # Technologies used:
 Terraform, Jenkins, Docker, AWS, Git, Java, Maven, Linux, Docker Hub
 
-#Project Description:
+# Project Description:
 Integrate provisioning stage into complete CI/CD Pipeline to automate provisioning server instead of
 deploying to an existing server
 Create SSH Key Pair
@@ -22,7 +22,7 @@ CD step: Deploy new application version on the provisioned EC2 instance with Doc
 
 
 
-# Demo Project:
+##Demo Project 2:
 Configure a Shared Remote State
 # Technologies used:
 Terraform, AWS S3
