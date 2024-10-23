@@ -22,7 +22,9 @@ CD step: Deploy new application version on the provisioned EC2 instance with Doc
 
 
 
-##Demo Project 2:
+
+
+# Demo Project 2:
 Configure a Shared Remote State
 # Technologies used:
 Terraform, AWS S3
